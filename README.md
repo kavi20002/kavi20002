@@ -1,6 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=250&section=header&text=Kavidu%20Keshan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<p align="center">
+  <img src="overview4.gif" alt="Overview banner" width="1100px" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Engineering+Undergraduate;Building+Scalable+and+Intelligent+Solutions)](https://git.io/typing-svg)
 
