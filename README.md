@@ -116,15 +116,6 @@ Machine Learning solution using Python, Scikit-learn, Pandas, and NumPy.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kavi20002&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -140,7 +131,9 @@ Machine Learning solution using Python, Scikit-learn, Pandas, and NumPy.
 
 <div align="center">
 
-![Snake animation](https://github.com/kavi20002/kavi20002/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavi20002/kavi20002/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 </div>
 
